@@ -1,7 +1,7 @@
 # Arqam Waheed 👋
 
 Developer from Islamabad, Pakistan 🇵🇰. I started out working through The Odin Project, and these days
-I mostly build small AI-powered apps — usually under hackathon time pressure, usually on a free-tier
+I mostly build small AI-powered apps... usually under hackathon time pressure, usually on a free-tier
 stack, and usually with GitHub Copilot in the loop.
 
 I like taking a sharp idea and getting it to a working, demoable state quickly. Lately that's meant
@@ -35,12 +35,12 @@ I'm also working on [Graducate](https://github.com/ArqamWaheed/gradly), a Pakist
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
-Plus Java and C++ when a course asks for them.
+Done Java and C++ in uni asw but wouldn't really say I learnt anything there lol
 
 ### Currently
 
-Getting Schedio ready for an actual launch — Chrome Web Store, OAuth verification, a proper landing
-page — and looking for the next thing to build.
+Getting Schedio ready for an actual launch: Chrome Web Store, OAuth verification, a proper landing
+page, and looking for the next thing to build.
 
 ### Elsewhere
 
